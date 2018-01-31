@@ -9,6 +9,7 @@ gem 'yard'
 # Include everything needed to run rake, tests, features, etc.
 group :development do
   gem 'pry'
+  gem 'marky_markov'
 end
 
 

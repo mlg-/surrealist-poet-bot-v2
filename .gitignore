@@ -50,3 +50,4 @@ pkg
 #*.rbc
 
 examples/*.yml
+*yml
